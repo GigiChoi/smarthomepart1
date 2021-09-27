@@ -1,0 +1,2 @@
+com/example/sourcecode_choichihong/BuildConfig.java
+ com.example.sourcecode_choichihong.BuildConfig
